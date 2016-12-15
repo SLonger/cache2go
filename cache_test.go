@@ -344,7 +344,3 @@ func TestLogger(t *testing.T) {
 		t.Error("Logger is empty")
 	}
 }
-
-func TestErrorMy(t *testing.T) {
-	t.Error("error handle")
-}
